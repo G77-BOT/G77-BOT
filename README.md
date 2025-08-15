@@ -3,9 +3,11 @@
 I'm a passionate software developer currently leading the development of an advanced Ai powered Crypto Trading platform by leveraging AI and machine learning technologies.
 
 🔍 What I'm Working On
+
 I’m building a next-generation Crypto Trading platform that leverages artificial intelligence to delivers high intelligent Trading experiences.
 
 🚀 Looking For Collaborators
+
 I'm currently seeking skilled Python developers with experience in AI and machine learning to join this exciting project. If you're passionate about applying your skills to real-world problems in a fast-paced startup-style environment, I’d love to connect.
 
 🤝 Collaboration Goals
