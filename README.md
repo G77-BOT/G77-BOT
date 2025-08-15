@@ -16,13 +16,15 @@ Experiment with NLP, computer vision, and predictive analytics
 
 📬 How to Reach Me
 Feel free to connect with me via:
+
 Email: [aicrypto@myyahoo.com]
+
 GitHub: [G77-BOT]
 
-🧑 Pronouns
-He/Him
+🧑 Pronouns:He/Him
+
 ⚡ Fun Fact
-“If you do what you love, you'll never work a day in your life.”
+“Engaging in activities that align with one’s passions can lead to a fulfilling and purposeful work environment, reducing the likelihood of experiencing monotonous or unfulfilling workdays.”
 
 <!---
 G77-BOT/G77-BOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
