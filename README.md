@@ -9,10 +9,9 @@ I’m building a next-generation Crypto Trading platform that leverages artifici
 I'm currently seeking skilled Python developers with experience in AI and machine learning to join this exciting project. If you're passionate about applying your skills to real-world problems in a fast-paced startup-style environment, I’d love to connect.
 
 🤝 Collaboration Goals
-Build robust AI/ML-driven recommendation engines
-Integrate intelligent search and personalization features
-Create scalable backend systems for e-commerce operations
-Experiment with NLP, computer vision, and predictive analytics
+Develop robust machine learning trading models that employ deep learning techniques and predictive analytics for efficient market analysis.
+Design scalable backend systems to facilitate seamless trading operations.
+Explore the application of natural language processing (NLP), computer vision, and predictive analytics to enhance trading strategies and decision-making processes.
 
 📬 How to Reach Me
 Feel free to connect with me via:
